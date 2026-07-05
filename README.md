@@ -1,4 +1,3 @@
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--         CUSTOM ANIMATED CODE BANNER (glitch/typing effect)       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -50,6 +49,8 @@ Every interface I ship and every frame I capture serves the same goal — **tell
 
 <br clear="right" />
 
+<img align="right" alt="Coding gif" width="320" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtxeTQxaWp6bm9xZG9veng3dHJrdWt3YWZneWQ5bzB0YW43a2k0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
+
 ```javascript
 const raza = {
   location:     "Pakistan 🇵🇰",
@@ -62,6 +63,8 @@ const raza = {
   funFact:      "I debug code the same way I edit footage — frame by frame",
 };
 ```
+
+<br clear="right" />
 
 ---
 
@@ -170,7 +173,7 @@ When the laptop closes, the camera comes out. My visual work is where I explore 
 
 </div>
 
-
+---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         CONNECT                                   -->
