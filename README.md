@@ -20,7 +20,7 @@
 
   ![Profile Views](https://komarev.com/ghpvc/?username=raza-khan-mrk&color=32CD32&style=for-the-badge&label=PROFILE+VIEWS)
   [![Followers](https://img.shields.io/github/followers/raza-khan-mrk?style=for-the-badge&color=32CD32&labelColor=1D1D1D&label=FOLLOWERS)](https://github.com/raza-khan-mrk?tab=followers)
-  [![Instagram](https://img.shields.io/badge/-@your__handle-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_handle)
+  [![Instagram](https://img.shields.io/badge/-@raza.xthetic-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raza.xthetic)
 
 </div>
 
@@ -49,7 +49,7 @@ Every interface I ship and every frame I capture serves the same goal — **tell
 
 <br clear="right" />
 
-<img align="right" alt="Coding gif" width="320" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtxeTQxaWp6bm9xZG9veng3dHJrdWt3YWZneWQ5bzB0YW43a2k0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
+<img align="right" alt="Coding gif" width="230" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtxeTQxaWp6bm9xZG9veng3dHJrdWt3YWZneWQ5bzB0YW43a2k0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
 
 ```javascript
 const raza = {
@@ -138,7 +138,7 @@ When the laptop closes, the camera comes out. My visual work is where I explore 
 
 </div>
 
-**See the work:** [Portfolio](https://your-portfolio.com) · [Instagram](https://instagram.com/your_handle) · [YouTube](https://youtube.com/@your_handle) · [Behance](https://behance.net/your_handle)
+**See the work:** [Portfolio](https://your-portfolio.com) · [Instagram](https://instagram.com/raza.xthetic) · [YouTube](https://youtube.com/@your_handle) ·
 
 ---
 
@@ -185,11 +185,11 @@ Whether you need a **website that ships** or **visuals that stop the scroll** �
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-raza-khan-a3336a36b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raza.xthetic)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@your_handle)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/your_handle)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khanmuhammaraza3@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/92XXXXXXXXXX)
 
@@ -204,9 +204,11 @@ Whether you need a **website that ships** or **visuals that stop the scroll** �
 ## 🐍 Watch My Contributions Get Eaten
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/raza-khan-mrk/raza-khan-mrk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
 </div>
 
 ---
