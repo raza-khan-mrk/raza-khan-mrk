@@ -1,33 +1,70 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  ANIMATED WAVE BANNER (LIME GREEN)               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:32CD32,50:0d5c0d,100:0a1a0a&height=280&section=header&text=RAZA%20KHAN&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%C3%97%20Visual%20Storyteller&descSize=20&descAlignY=58&descAlign=50" width="100%" alt="banner" />
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    TYPING SUBTITLE (LIME GREEN)                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- =========== ANIMATED HEADER =========== -->
-<a href="https://github.com/raza-khan-mrk">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=E63946&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi%2C+I'm+Raza+Khan+%F0%9F%91%8B;Full+Stack+Developer+%C3%97+Visual+Storyteller;Code+by+day%2C+Camera+by+night" alt="Raza Khan" />
-</a>
+  <a href="https://github.com/raza-khan-mrk">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&pause=1000&color=32CD32&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Code+by+day%2C+Camera+by+night+%F0%9F%8E%AC;Building+the+web%2C+capturing+the+world+%F0%9F%93%B8;Frame+by+frame%2C+commit+by+commit" alt="Typing" />
+  </a>
 
-<br />
+  <br /><br />
 
-![Profile Views](https://komarev.com/ghpvc/?username=raza-khan-mrk&color=E63946&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/raza-khan-mrk?style=for-the-badge&color=E63946&labelColor=1D1D1D)](https://github.com/raza-khan-mrk)
-[![Instagram](https://img.shields.io/badge/-@your__handle-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1D1D1D)](https://www.instagram.com/raza.xthetic)
+  ![Profile Views](https://komarev.com/ghpvc/?username=raza-khan-mrk&color=32CD32&style=for-the-badge&label=PROFILE+VIEWS)
+  [![Followers](https://img.shields.io/github/followers/raza-khan-mrk?style=for-the-badge&color=32CD32&labelColor=1D1D1D&label=FOLLOWERS)](https://github.com/raza-khan-mrk?tab=followers)
+  [![Instagram](https://img.shields.io/badge/-@your__handle-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1D1D1D)](https://instagram.com/your_handle)
 
 </div>
 
----
+<br />
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  OPENING SCENE (WITH RIGHT GIF)                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🎬 Opening Scene
 
-I live at the intersection of **code** and **creativity**.  
-By day, I engineer fast, elegant web experiences. By night, I chase light and stories through my lens. Every interface I ship and every frame I capture serves the same goal — **telling a story that resonates**.
+<img align="right" alt="Coder gif" width="320" src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" />
+
+I live at the intersection of **code** and **creativity**.
+
+By day, I engineer fast, elegant web experiences.
+By night, I chase light and stories through my lens.
+
+Every interface I ship and every frame I capture serves the same goal — **telling a story that resonates**.
 
 - 🌍 Based in **Pakistan**
-- 💼 Freelance **Full Stack Web Developer** & **Photographer / Videographer**
-- 🔭 Currently building — **[your current project]**
-- 🎥 Currently shooting — **[your current visual series]**
-- 💬 Ask me about **web development, cinematography, or color grading**
-- 📩 Reach me at **your.email@example.com**
+- 💼 Freelance **Full Stack Developer** & **Photographer/Videographer**
+- 🎯 Building products that look as good as they feel
+- 💬 Ask me about **web dev, cinematography, or color grading**
+
+
+<br clear="right" />
+
+```javascript
+const raza = {
+  location:     "Pakistan 🇵🇰",
+  role:         "Full Stack Developer + Photographer/Videographer",
+  code:         ["JavaScript", "TypeScript", "Python"],
+  frameworks:   ["React", "Next.js", "Node.js", "Express"],
+  cameras:      ["Portrait", "Cinematic", "Street", "Weddings"],
+  currentFocus: "Products that look as good as they feel",
+  askMeAbout:   ["web dev", "cinematography", "color grading"],
+  funFact:      "I debug code the same way I edit footage — frame by frame",
+};
+```
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         TECH REEL                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🎞️ The Tech Reel
 
@@ -51,7 +88,7 @@ By day, I engineer fast, elegant web experiences. By night, I chase light and st
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**Tools & DevOps**
+**Tools & Deployment**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -63,6 +100,10 @@ By day, I engineer fast, elegant web experiences. By night, I chase light and st
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       BEHIND THE LENS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📸 Behind the Lens
 
@@ -80,10 +121,24 @@ When the laptop closes, the camera comes out. My visual work is where I explore 
 
 </div>
 
-**What I shoot:** Portrait · Street · Product · Weddings · Event Cinematography · Brand Content  
-**See the work:** [Portfolio](https://your-portfolio.com) · [Instagram](https://instagram.com/your_handle) · [YouTube](https://youtube.com/@your_handle)
+<div align="center">
+
+| 🎥 What I Shoot | 🎨 What I Create |
+|:---:|:---:|
+| Portraits | Brand Films |
+| Street Photography | Product Videos |
+| Weddings | Music Videos |
+| Events | Social Content |
+
+</div>
+
+**See the work:** [Portfolio](https://your-portfolio.com) · [Instagram](https://instagram.com/your_handle) · [YouTube](https://youtube.com/@your_handle) · [Behance](https://behance.net/your_handle)
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     CURRENTLY IN PRODUCTION                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🎯 Currently In Production
 
@@ -91,27 +146,60 @@ When the laptop closes, the camera comes out. My visual work is where I explore 
 - 🌐 **[Project 2]** — one-line description
 - 🎥 **[Photo/Video Series]** — one-line description
 - 📚 Currently learning — **[new tech / camera skill]**
+- 💡 Open for freelance — **web development & visual content**
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    THE NUMBERS (LIME GREEN)                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📊 The Numbers
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raza-khan-mrk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raza-khan-mrk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raza-khan-mrk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raza-khan-mrk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&icon_color=32CD32&title_color=32CD32" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raza-khan-mrk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=32CD32" />
 
 <br /><br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raza-khan-mrk&theme=tokyonight&hide_border=true&stroke=32CD32&ring=32CD32&fire=32CD32&currStreakLabel=32CD32" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  ACTIVITY GRAPH (LIME GREEN)                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📈 Contribution Timeline
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raza-khan-mrk&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=32cd32&line=32cd32&point=ffffff&area=true&area_color=32cd32" alt="Activity Graph" width="100%" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                           TROPHIES                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🏆 Trophies
+
+<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=raza-khan-mrk&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         CONNECT                                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📞 Let's Collaborate
 
@@ -123,7 +211,7 @@ Whether you need a **website that ships** or **visuals that stop the scroll** �
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_handle)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@your_handle)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/your_handle)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/92XXXXXXXXXX)
 
@@ -131,18 +219,46 @@ Whether you need a **website that ships** or **visuals that stop the scroll** �
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        SNAKE ANIMATION                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🐍 Watch My Contributions Get Eaten
+
 <div align="center">
 
-### 🐍 Watch my contributions get eaten
+<img src="https://raw.githubusercontent.com/raza-khan-mrk/raza-khan-mrk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 
-![Snake animation](https://raw.githubusercontent.com/raza-khan-mrk/raza-khan-mrk/output/github-contribution-grid-snake-dark.svg)
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        RANDOM QUOTE                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 💭 Dev Quote of the Moment
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
 
 <br />
 
-> _"Great code and great photography share one thing — attention to detail."_
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                ANIMATED WAVE FOOTER (LIME GREEN)                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1a0a,50:0d5c0d,100:32CD32&height=200&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=32&animation=twinkling&fontAlignY=65&desc=Frame+by+frame%2C+commit+by+commit&descSize=16&descAlignY=85" width="100%" alt="footer" />
 
-⭐ **From [raza-khan-mrk](https://github.com/raza-khan-mrk) — Frame by frame, commit by commit.**
+<div align="center">
+
+<i>"Great code and great photography share one thing — attention to detail."</i>
+
+<br /><br />
+
+⭐ **From [raza-khan-mrk](https://github.com/raza-khan-mrk) with 💚 from Pakistan**
 
 </div>
