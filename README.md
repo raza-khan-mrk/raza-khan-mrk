@@ -138,7 +138,7 @@ When the laptop closes, the camera comes out. My visual work is where I explore 
 
 </div>
 
-**See the work:** [Portfolio](https://your-portfolio.com) 路 [Instagram](https://instagram.com/raza.xthetic) 路 [YouTube](https://youtube.com/@your_handle) 路
+**See the work:** [Portfolio](https://my-portfolio-website-mrk6.vercel.app/) 路 [Instagram](https://instagram.com/raza.xthetic) 路 [YouTube](https://youtube.com/@your_handle) 路
 
 ---
 
@@ -190,7 +190,7 @@ Whether you need a **website that ships** or **visuals that stop the scroll** 鈥
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@your_handle)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/your_handle)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khanmuhammaraza3@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-website-mrk6.vercel.app/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/92XXXXXXXXXX)
 
 </div>
